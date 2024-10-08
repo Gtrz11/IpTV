@@ -1,0 +1,5 @@
+IPTV_List
+
+https://github.com/Gtrz11/IpTV/releases/download/IPTV-List/IPTV_List.m3u
+
+http://kisstv.xyz:80/get.php?username=Randallam2024&password=Inter12345&type=m3u_plus
